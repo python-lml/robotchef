@@ -1,5 +1,1 @@
 lml
-https://github.com/python-lml/robotchef_chinesecuisine/archive/master.zip
-https://github.com/python-lml/robotchef_britishcuisine/archive/master.zip
-https://github.com/python-lml/robotchef_cook/archive/master.zip
-
